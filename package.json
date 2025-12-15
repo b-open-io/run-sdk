@@ -1,6 +1,6 @@
 {
   "name": "@bopen-io/run-sdk",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Run SDK (based on runonbitcoin/run-sdk)",
   "license": "MIT",
   "main": "dist/run-sdk.node.min.js",
